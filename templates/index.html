@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html lang="en">
+        <head>
+		<title>home</title>
+	</head>
+        <body>
+            <form method="POST" action="{{ url_for('login') }}">
+                Search: <input type='text' name='login' id='login'>
+                <input type="submit" value='Login' />
+            </form>
+            <h1>{{result}}</h1>
+        </body>
+</html>
+

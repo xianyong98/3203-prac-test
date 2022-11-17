@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<testsuite name="TestRegistrationAndLogin-20221116212749" tests="3" time="17.270" failures="0" errors="0">
+	<testcase classname="TestRegistrationAndLogin" name="test_emptyform" time="4.247"/>
+	<testcase classname="TestRegistrationAndLogin" name="test_normalinput" time="6.508"/>
+	<testcase classname="TestRegistrationAndLogin" name="test_xxs" time="6.516"/>
+	<system-out><![CDATA[]]></system-out>
+	<system-err><![CDATA[]]></system-err>
+</testsuite>
